@@ -1,8 +1,7 @@
 
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato|Roboto+Slab);
 
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700);
-
+@import url(https://fonts.googleapis.com/css?family=Lato);
 
 /* Global styles
 ================================================== */
@@ -93,14 +92,14 @@ img.pull-right, .pull-right > img {
 ================================================== */
 
 body, p{
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 1.6em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Droid Serif', serif;
+	font-family: 'Roboto Slab', serif;
 }
 
 h1{
@@ -671,7 +670,7 @@ ul.navbar-nav > li > a{
 	color: #333333;
 	padding: 0 15px;
 	line-height: 46px;
-	font-family: 'Droid Serif', serif;
+	font-family: 'Roboto Slab', serif;
 }
 
 ul.navbar-nav > li:last-child a{
@@ -809,7 +808,7 @@ ul.navbar-nav > li > a i{
 }
 
 .slider-content h2{
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 .slider-content {
@@ -832,7 +831,7 @@ ul.navbar-nav > li > a i{
 	font-size: 38px !important;
 	font-style: italic;
 	text-transform: capitalize !important;
-	font-family: 'Droid Serif', serif !important;
+	font-family: 'Roboto Slab', serif !important;
 }
 
 .slider-text.italic p{
@@ -985,7 +984,7 @@ ul.navbar-nav > li > a i{
 	margin-top: 40px;
 	color: #fff;
 	text-transform: uppercase;
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 #main-slide .flex-caption.slider-content h2{
@@ -1141,7 +1140,7 @@ ul.navbar-nav > li > a i{
 }
 
 #main-slide .slider3-content .slider-text h2{
-	font-family: 'Droid Serif', serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 40px ;
 }
 
@@ -2774,7 +2773,7 @@ h3.post-title{
 	font-weight: 700;
 	color: #333;
 	margin: 0;
-	font-family: 'Droid Serif', serif;
+	font-family: 'Roboto Slab', serif;
 }
 
 .sidebar-left .nav-tabs>li>a:after{
