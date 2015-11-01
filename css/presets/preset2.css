@@ -1,0 +1,393 @@
+
+/* Global styles
+================================================== */
+
+a{
+	color: #e7512f;
+}
+
+a.read-more:hover{
+	color: #327cbc;
+}
+
+
+/* Typography
+================================================== */
+
+/* Buttons */
+
+.readmore, input[type="submit"], .btn.btn-primary{
+	background: #e7512f;
+	color: #fff;
+}
+
+.readmore:hover, input[type="submit"]:hover, .btn.btn-primary:hover{
+	border: 2px solid #e7512f !important;
+	color: #e7512f !important;
+}
+
+.btn.btn-primary.white:hover{
+	background: #e7512f !important;
+}
+
+.btn.btn-primary.solid{
+	background: #e7512f;
+}
+
+blockquote {
+	border-left: 5px solid #e7512f;
+}
+
+/* List */
+
+ul.circle li:before{
+	color: #e7512f;
+}
+
+ul.check-list li i{
+	color: #e7512f;
+}
+
+ul.arrow-right li a:hover{
+	color: #e7512f;
+}
+
+ul.arrow-right li::before {
+	color: #e7512f;
+}
+
+/* Common styles
+================================================== */
+
+/* Title */
+
+.title-cap-big{
+	color: #e7512f;
+}
+
+/* Carousel controll */
+
+.ts-carousel-controller .left,
+.ts-carousel-controller .right, 
+.owl-controls .owl-prev, 
+.owl-controls .owl-next,
+.owl-theme .owl-controls .owl-buttons div{
+	background: #e7512f;
+}
+
+.owl-theme .owl-controls .owl-page.active span{
+	background: #e7512f;
+}
+
+/* Input form */
+
+.form-control:focus{
+	border: 1px solid #e7512f !important;
+}
+
+/* Flex Slider */
+.portfolio-slider .flex-direction-nav a:hover, 
+.ts-flex-slider .flex-direction-nav a:hover {
+	background: #e7512f;
+}
+
+/* Pagination */
+
+.pagination>.active>a, .pagination>.active>a:hover,
+.pagination>li>a:hover{
+	background: #e7512f;
+}
+
+
+/* Header area
+================================================== */
+
+/* Top bar */
+
+ul.top-info li i{
+	color: #e7512f;
+}
+
+/* Logo */
+.logo{
+	background-image: url(../../images/presets/preset2/logo.png);
+}
+
+/* Main navigation */
+
+.navbar-toggle{
+	background: #e7512f;
+}
+
+ul.navbar-nav > li.active > a,
+ul.navbar-nav > li > a:hover{
+	color: #e7512f;
+}
+
+/* Dropdown */
+
+.dropdown-menu > ul{
+	border-top: 3px solid #e7512f;
+}
+
+.dropdown-menu > ul > li.active > a{
+	color: #e7512f !important;
+}
+
+.dropdown-menu > ul > li>a:hover, 
+.dropdown-menu > ul > li>a:focus{
+	color: #e7512f !important;
+}
+
+/* Slideshow
+================================================== */
+
+/* Main slide */
+
+#main-slide .carousel-indicators li.active,
+#main-slide .carousel-indicators li:hover {
+    background-color: #e7512f;
+}
+
+#main-slide .carousel-control i:hover{
+	background: #e7512f;
+}
+
+/* Intro area
+================================================== */
+
+.intro{
+	border-top: 5px solid #e7512f;
+}
+
+.intro .container:after {
+	border-top-color: #e7512f;
+}
+
+h4.panel-title a{
+	color: #e7512f;
+}
+
+h4.panel-title a:hover{
+	color: #e7512f;
+}
+
+h4.panel-title a:before {
+	background: #e7512f;
+}
+
+.list-icon i{
+	color: #e7512f;
+}
+
+/* Services
+================================================== */
+
+.service-icon i{
+	color: #e7512f;
+}
+
+/* Practice Area
+================================================== */
+
+.isotope-nav ul li a{
+	border: 1px solid #e7512f;
+}
+
+.isotope-nav ul a.active, 
+.isotope-nav ul a:hover{
+	background: #e7512f;
+}
+
+.practice-area .grid{
+	background: #e7512f;
+}
+
+.practice-area .grid:hover{
+	background: #D24120;
+}
+
+figure.effect-oscar a:hover{
+	color: #e7512f;
+}
+
+figure.effect-oscar:hover figcaption {
+	background-color: rgba(231,83,50,0.75) !important;
+}
+
+/* Content area
+================================================== */
+
+.content-box i {
+	color: #e7512f;
+}
+
+.latest-post .post-body h4 a:hover{
+	color: #e7512f;
+}
+
+/* Facts
+================================================== */
+
+.ts_counter{
+	background: #e7512f;
+}
+
+/* Testimonial
+================================================== */
+
+.testimonial-slide .testimonial-text:before{
+	color: #e7512f;
+}
+
+.testimonial-slide .testimonial-text:after{
+	color: #e7512f;
+}
+
+
+/* Footer
+================================================== */
+
+.footer{
+	background: #e7512f;
+}
+
+ul.arrow li a:hover{
+	color: #FF9B84;
+}
+
+ul.twitter-list li a.date{
+	color: #FF9B84;
+}
+
+.qc-form button{
+	color: #e7512f !important;
+}
+
+
+/* Copyright
+================================================== */
+
+.copyright{
+	background: #cc3917;
+}
+
+.copyright-info a:hover{
+	color: #FF9B84;
+}
+
+.footer-nav li a:hover{
+	color: #FF9B84;
+}
+
+#back-to-top .btn.btn-primary:hover{
+	background: #e7512f !important;
+	color: #fff !important;
+}
+
+
+/* Testimonials Page
+================================================== */
+
+.ts-testimonial-content {
+	background-color: #e7512f;
+}
+
+.ts-testimonial-content:after {
+	border-top: 25px solid #e7512f;
+}
+
+/* Attorneys
+================================================== */
+
+.team-carousel .team-img-wrapper .social-icons a:hover {
+  	color: #e7512f;
+}
+
+.team-carousel .team-img-wrapper .team-img-wrapper-hover {
+  	background-color: rgba(231,83,50,0.75) !important;
+}
+
+.team-carousel .team-content h3.ts-name {
+  	color: #e7512f;
+}
+
+.team-carousel .owl-controls .owl-buttons div:hover,
+.team-carousel.team-page .owl-controls .owl-buttons div:hover{
+	background: #e7512f !important;
+}
+
+/* Our Firm
+================================================== */
+
+.inside-circle:hover{
+	border: 1px solid #e7512f;
+}
+
+.inside-circle:hover .circle-icon,
+.inside-circle:hover .circle-title {
+  color: #e7512f;
+}
+
+
+/* News
+================================================== */
+
+.post-meta a:hover{
+	color: #e7512f;
+}
+
+.author-url span a:hover{
+	color: #e7512f;
+}
+
+.comments-counter a:hover{
+	color: #e7512f;
+}
+
+.comments-list .comment-reply:hover{
+	color: #e7512f;
+}
+
+/* Sidebar
+================================================== */
+
+.widget-tab h4.entry-title a:hover,
+.widget-categories ul.category-list  li a:hover,
+.archive-list li a:hover{
+	color: #e7512f;
+}
+
+.widget-tags ul > li a:hover{
+	background: #e7512f;
+}
+
+.sidebar-left .nav-tabs>li>a:hover,
+.sidebar-left .nav-tabs>li.active>a, 
+.sidebar-left .nav-tabs>li.active>a:focus{
+	color: #e7512f;
+}
+
+.sidebar-left .nav-tabs>li.active>a:after,
+.sidebar-left .nav-tabs>li>a:hover:after{
+	background: #e7512f;
+}
+
+/* Features
+================================================== */
+
+/* Default Tab */
+
+.tab-default .nav-tabs>li.active>a{
+	background: #e7512f;
+}
+
+.tab-default.icon-style .tab-content{
+	border-top: 2px solid #e7512f;
+}
+
+/* Buttons */
+
+.btn.btn-default:hover{
+	background: #e7512f;
+}
